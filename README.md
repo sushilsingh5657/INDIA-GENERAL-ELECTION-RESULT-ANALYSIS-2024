@@ -71,6 +71,8 @@ o	INDIA alliance made significant gains.
 
 o	Independent and regional parties had localized impact.
 
+# SQL QUERY PREVIEW
+
 
 <img width="497" alt="Que1" src="https://github.com/user-attachments/assets/ca6c63af-d7ad-4def-8457-0f4029e74d50" />  <img width="82" alt="Ans1" src="https://github.com/user-attachments/assets/9eb055c3-140a-4ee3-8986-16180b85f2d9" />
 
