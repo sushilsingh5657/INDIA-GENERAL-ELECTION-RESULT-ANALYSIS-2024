@@ -64,11 +64,25 @@ o	Seat share percentages.
 
 # 6. Insight Generation
 •	Derived conclusions:
+
 o	BJP led the NDA with a majority.
 
 o	INDIA alliance made significant gains.
 
 o	Independent and regional parties had localized impact.
+<img width="497" alt="Que1" src="https://github.com/user-attachments/assets/ca6c63af-d7ad-4def-8457-0f4029e74d50" />  <img width="82" alt="Ans1" src="https://github.com/user-attachments/assets/9eb055c3-140a-4ee3-8986-16180b85f2d9" />
+
+<img width="506" alt="Que2" src="https://github.com/user-attachments/assets/abbeee40-3bd8-4e6b-8a4b-3496eb0faa4d" />  ![Ans2](https://github.com/user-attachments/assets/781aeef9-e56c-4241-8dc9-16984d3f82b0)
+
+<img width="228" alt="Que3" src="https://github.com/user-attachments/assets/6340bbf9-f670-40c5-8378-0518185baff9" />  <img width="122" alt="Ans3" src="https://github.com/user-attachments/assets/2ecf10a7-6dd6-43f8-9bf4-117d34b9e63b" />
+
+
+
+
+
+
+
+
 
 
 
