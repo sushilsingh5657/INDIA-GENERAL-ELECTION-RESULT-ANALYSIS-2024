@@ -78,6 +78,8 @@ o	Independent and regional parties had localized impact.
 
 <img width="506" alt="Que2" src="https://github.com/user-attachments/assets/abbeee40-3bd8-4e6b-8a4b-3496eb0faa4d" />  <img width="182" alt="Ans2" src="https://github.com/user-attachments/assets/d6bb3ce3-32a5-432f-aacf-ebd9eea592d2" />
 
+
+
 <img width="182" alt="Ans2 1" src="https://github.com/user-attachments/assets/0747d5aa-e657-43c6-bb0f-f2291d66af2c" />
 
 <img width="228" alt="Que3" src="https://github.com/user-attachments/assets/6340bbf9-f670-40c5-8378-0518185baff9" />  <img width="122" alt="Ans3" src="https://github.com/user-attachments/assets/2ecf10a7-6dd6-43f8-9bf4-117d34b9e63b" />
