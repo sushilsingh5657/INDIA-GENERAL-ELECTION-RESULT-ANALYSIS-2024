@@ -86,7 +86,10 @@ o	Independent and regional parties had localized impact.
 
 # 6. <img width="340" alt="Que6" src="https://github.com/user-attachments/assets/4b02cec3-bd96-485d-8cdd-d67ef2ae4246" />  <img width="266" alt="Ans6" src="https://github.com/user-attachments/assets/c859326c-68d2-42c4-b1bc-4bcccbd66259" />
 
-# 7. <img width="601" alt="Que7" src="https://github.com/user-attachments/assets/06178d12-81a1-492f-9c44-4d81f5c31e7a" />    <img width="395" alt="Ans7" src="https://github.com/user-attachments/assets/f0fabbd9-6d92-41ba-ba30-d2f35d61c7b9" />    <img width="229" alt="Ans7 1" src="https://github.com/user-attachments/assets/161c3470-5e16-4d83-9cb5-787571a9b952" />    <img width="392" alt="Ans7 2" src="https://github.com/user-attachments/assets/81920815-8048-485d-bd3f-71c42cd611f4" />
+# 7. <img width="601" alt="Que7" src="https://github.com/user-attachments/assets/06178d12-81a1-492f-9c44-4d81f5c31e7a" />  
+<img width="395" alt="Ans7" src="https://github.com/user-attachments/assets/f0fabbd9-6d92-41ba-ba30-d2f35d61c7b9" />  
+<img width="229" alt="Ans7 1" src="https://github.com/user-attachments/assets/161c3470-5e16-4d83-9cb5-787571a9b952" />  
+<img width="392" alt="Ans7 2" src="https://github.com/user-attachments/assets/81920815-8048-485d-bd3f-71c42cd611f4" />
 
 # 8. <img width="509" alt="Que8" src="https://github.com/user-attachments/assets/fc0253d5-5aa1-4021-bd5d-3c3862560297" />  <img width="159" alt="Ans8" src="https://github.com/user-attachments/assets/766cb438-f274-4e52-ac9a-d801db2eeb0a" />
 
