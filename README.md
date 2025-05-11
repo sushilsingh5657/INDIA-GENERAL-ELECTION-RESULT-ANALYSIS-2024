@@ -90,7 +90,7 @@ o	Independent and regional parties had localized impact.
 
 # 8. <img width="509" alt="Que8" src="https://github.com/user-attachments/assets/fc0253d5-5aa1-4021-bd5d-3c3862560297" />  <img width="159" alt="Ans8" src="https://github.com/user-attachments/assets/766cb438-f274-4e52-ac9a-d801db2eeb0a" />
 
-# 9. <img width="698" alt="Que9" src="https://github.com/user-attachments/assets/233744ee-8e2b-4143-9eeb-ffee8d8060c9" />      <img width="566" alt="Ans9" src="https://github.com/user-attachments/assets/862a9f04-f842-4b9b-8fff-8e939858d55d" />
+# 9. <img width="698" alt="Que9" src="https://github.com/user-attachments/assets/233744ee-8e2b-4143-9eeb-ffee8d8060c9" />  <img width="566" alt="Ans9" src="https://github.com/user-attachments/assets/862a9f04-f842-4b9b-8fff-8e939858d55d" />
 
 # 10. <img width="647" alt="Que10" src="https://github.com/user-attachments/assets/2e76f583-e014-4a4a-b05e-9624fe5f08ff" />  <img width="386" alt="Ans10" src="https://github.com/user-attachments/assets/853cd6b1-a5a4-4119-955e-2381b441d29d" />
 
@@ -103,6 +103,31 @@ o	Independent and regional parties had localized impact.
 # 14. <img width="646" alt="Que14" src="https://github.com/user-attachments/assets/0f024d8d-739e-42f5-a07f-ca799e89fe6f" />  <img width="386" alt="Ans14" src="https://github.com/user-attachments/assets/f7cd0213-ba35-4ac2-9ea6-4ce8bac01cf5" />  <img width="383" alt="Ans14 1" src="https://github.com/user-attachments/assets/defa4563-c6aa-4a2c-8198-cad62fa362e7" />  <img width="384" alt="ans14 2" src="https://github.com/user-attachments/assets/51747169-cfd6-41c7-9765-27e7640d195d" />  <img width="386" alt="Ans14 3" src="https://github.com/user-attachments/assets/ce1e8c5b-6c27-40d3-aa79-a56a0f9b54c4" />  <img width="385" alt="Ans14 4" src="https://github.com/user-attachments/assets/8c385bdd-d214-40dc-a9be-69deb08c3fa4" />
 
 # 15. <img width="626" alt="Que15" src="https://github.com/user-attachments/assets/ead450d8-628a-4f14-805e-98c513544df4" />  <img width="457" alt="Ans15" src="https://github.com/user-attachments/assets/066b4c58-31c6-4b8a-8166-d20f2a0ea2bd" />
+
+# Key Insights
+# 1.	NDA Secures Majority
+➤ The NDA alliance won 293 out of 543 seats, comfortably crossing the majority mark of 272.
+# 2.	BJP Remains the Largest Party
+➤ Bharatiya Janata Party (BJP) individually won 240 seats, retaining its position as the single largest party in the Lok Sabha.
+# 3.	Strong Performance by INDIA Alliance
+➤ The INDIA alliance (including INC, DMK, SP, TMC) collectively secured 232 seats, showing significant gains compared to 2019.
+# 4.	Congress Shows Growth
+➤ Indian National Congress (INC) won 99 seats, marking a notable improvement in performance.
+# 5.	Regional Parties Matter
+➤ Regional parties like TMC, DMK, SP, AAP played a crucial role in their respective states, contributing to alliance totals.
+# 6.	Uttar Pradesh Holds Power
+➤ With 80 seats, Uttar Pradesh remained the most politically influential state, contributing heavily to both NDA and INDIA alliances.
+# 7.	Independent Candidates Make a Mark
+➤ 6 independent candidates won seats, indicating pockets of strong local influence.
+# 8.	Diverse Party Representation
+➤ Over 30 political parties and alliances secured at least one seat, reflecting India’s multi-party democratic nature.
+# 9.	Narrowing National Gap
+➤ The seat share gap between NDA (53.97%) and INDIA (42.73%) reflects a more competitive political environment compared to 2019.
+
+# Conclusion
+The India General Election Result Analysis 2024 project offers a structured and data-driven overview of one of the world’s largest democratic events. By leveraging SQL queries and relational database design, this project provides meaningful insights into party performances, alliance strengths, and regional political trends.Key findings reveal that while the NDA alliance secured a majority, the INDIA alliance showed strong competitive gains, highlighting a shift towards a more balanced political landscape. The project also emphasizes the role of regional parties and independent candidates in shaping electoral outcomes.
+
+
 
 
 
